@@ -1,0 +1,42 @@
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+  }
+  
+  .box {
+    flex: 1;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+
+  #turnBlue {
+    background-color: blue;
+    color: white;
+  }
+
+  #turnRed {
+    background-color: red;
+    color: white;
+  }
+  #turnGreen {
+    background-color: green;
+    color: white;
+  }
+  #turnYellow {
+    background-color: yellow;
+    color: white;
+  }
+  #turnOrange {
+    background-color: orange;
+    color: white;
+  }
+  #turnRandom {
+    background-color: purple;
+    color: white;
+  }
+ 
+  
